@@ -1,1 +1,1 @@
-# EOR-ROR
+# EOR AND ROR dlls for detroit ogfn
